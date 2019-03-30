@@ -1,0 +1,19 @@
+body {
+    background-color: #faebd6;
+}
+
+.article__header {
+    color: #e00c08;
+}
+
+.article__paragraph {
+    margin-top: 32px;
+}
+
+.article__paragraph--top {
+    color: #962e21;
+}
+
+.article__paragraph--bottom {
+    color:  #100071;
+}
